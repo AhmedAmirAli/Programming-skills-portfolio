@@ -1,0 +1,22 @@
+{
+  "Water": {
+    "price": 1.00,
+    "quantity": 20
+  },
+  "Soda": {
+    "price": 1.50,
+    "quantity": 15
+  },
+  "Juice": {
+    "price": 2.00,
+    "quantity": 10
+  },
+  "Iced Coffee": {
+    "price": 2.50,
+    "quantity": 8
+  },
+  "Energy Drink": {
+    "price": 2.75,
+    "quantity": 12
+  }
+}

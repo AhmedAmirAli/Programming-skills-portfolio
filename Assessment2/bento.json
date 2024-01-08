@@ -1,0 +1,22 @@
+{
+  "Chicken Teriyaki Bento": {
+    "price": 8.50,
+    "quantity": 5
+  },
+  "Vegetarian Sushi Bento": {
+    "price": 7.00,
+    "quantity": 8
+  },
+  "Beef Bulgogi Bento": {
+    "price": 9.75,
+    "quantity": 6
+  },
+  "Salmon Poke Bowl": {
+    "price": 10.50,
+    "quantity": 4
+  },
+  "Shrimp Tempura Bento": {
+    "price": 9.00,
+    "quantity": 7
+  }
+}

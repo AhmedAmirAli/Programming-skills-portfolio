@@ -1,0 +1,22 @@
+{
+  "Chips": {
+    "price": 1.00,
+    "quantity": 10
+  },
+  "Cookies": {
+    "price": 1.50,
+    "quantity": 8
+  },
+  "Granola Bar": {
+    "price": 1.25,
+    "quantity": 12
+  },
+  "Nuts": {
+    "price": 2.00,
+    "quantity": 6
+  },
+  "Candy": {
+    "price": 0.75,
+    "quantity": 15
+  }
+}
